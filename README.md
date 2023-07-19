@@ -6,15 +6,16 @@ The project is created using React.js and Styled Components.
 
 ## Installation
 
-1. In the project directory, you can follow the steps below to download the dependencies:
-  Install with npm:
-      - npm i
-  Install with yarn:
-      - yarn
-2.In the project directory, you can run:
-  Run with npm:
-      - npm run
-  Run with yarn:
-      - yarn start
+In the project directory, you can follow the steps below to download the dependencies:  
+   - Install with npm:  
+      `npm i`  
+   - Install with yarn:  
+      `yarn`
+     
+In the project directory, you can run:  
+   - Run with npm:  
+      `npm run`  
+   - Run with yarn:  
+      `yarn start`  
 
 
